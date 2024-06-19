@@ -1,0 +1,113 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Backgroundimg{
+    background-image:url(./bgimage2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    /* height: 600px;
+    width: 100%; */
+}
+.socialicon{
+    text-align: center;
+}
+
+.iconlogo{
+    color: white;
+    margin: 10px;  
+}
+.Contact{
+    color: white;
+    text-decoration: none;
+}
+.Mail{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+/* ---------------------------Heading 1 Complet ---------------------- */
+/* ------------------------NAVBAR start--------------- */
+
+.navbar{
+     background-color: white;
+     height: 90px;
+     text-align: center;
+     box-shadow: 1px 1px 5px 5px rgba(00, 00, 00, 0.3);
+     position: sticky;
+}
+/* -------------------------------NAVBAR end ----------------- */
+
+/* --------------------------- Nav Heading 2 start---------- */
+.bgheading{ 
+    height: 350px;
+    width: inherit;
+    text-align: center;
+    margin-top: 100px; 
+    color: white;
+}
+.links{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+/* ---------------------------------------Nav Heading 1 end------------------- */
+/* ---------------------------------------Section 1 :start--------------------------- */
+.imgbred{
+  width: 310px;
+  height: 200px;
+  margin-top: 130px;
+}
+/* ------------------------------------Section 1 complet---------------------- */
+/* --------------------------------------Section 2 Start---------------------- */
+.icon{
+    margin-top: 60px;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+.icon:hover{
+    height:200px ;
+    width: 200px;
+    border-radius:50% ;
+    box-shadow: 1px 1px 6px 6px rgba(00,00, 00, 0.5);
+    
+}
+
+/* ------------------------------------------Section 2 End------------------- */
+/* ------------------------------------------Section 3 start------------------- */
+.section3{
+    margin-top: 150px;
+}
+/* ---------------------------Section 4 start---------------- */
+.backimg4{
+    background-image: url(./BGIMG4.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: 100%;
+}
+.vidiobakery{
+    width: 480px;
+    height: 350px;
+    /* margin-top: 120*/
+}
+  /* -----------------------------Section 4 End---------------- */
+  .rating{
+    color: white;
+  } 
+  .scroll{
+    padding-top: 100px;
+  }
+  /* --------------------------------- */
+  .cardimg{
+    height: 150px;
+  }
+  .member{
+    height: 30px;
+    width: 30px;
+    display: inline;
+  }
+  .foot{
+    background-color: #04091e;
+    height: 300px;
+  }

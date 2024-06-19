@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Backgroundimg{
+    background-image:url(./bgimage2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    /* height: 600px;
+    width: 100%; */
+}
+.socialicon{
+    text-align: center;
+}
+
+.iconlogo{
+    color: white;
+    margin: 10px;  
+}
+.Contact{
+    color: white;
+    text-decoration: none;
+}
+.Mail{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+/* ---------------------------Heading 1 Complet ---------------------- */
+/* ------------------------NAVBAR start--------------- */
+
+.navbar{
+     background-color: white;
+     height: 90px;
+     text-align: center;
+     box-shadow: 1px 1px 5px 5px rgba(00, 00, 00, 0.3);
+     position: sticky;
+}
+/* -------------------------------NAVBAR end ----------------- */
+
+/* --------------------------- Nav Heading 2 start---------- */
+.bgheading{ 
+    height: 350px;
+    width: inherit;
+    text-align: center;
+    margin-top: 100px; 
+    color: white;
+}
+.links{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+/* ---------------------------------------Nav Heading 1 end------------------- */
+/* --------------------------Menu Navbar Start-------------------- */
+.AnchorName{
+    color: black;
+}
